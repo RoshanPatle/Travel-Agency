@@ -26,7 +26,7 @@ const Services = () => {
   )
 
   return (
-    <div  className=' w-full bg-gray-200  gap-5 py-20 px-5 flex flex-col justify-between items-center lg:py-24'>
+    <div id='services' className=' w-full bg-gray-200  gap-5 py-20 px-5 flex flex-col justify-between items-center lg:py-24'>
       <div  className='flex flex-col justify-between gap-3 items-start lg:items-center lg:gap-5'>
 <h1 data-aos='zoom-in' delay='100' className='font-semibold text-black text-3xl lg:text-5xl'> Discover Your Next Dream Destination </h1>
 <p  data-aos='zoom-in' delay='200' className='lg:w-[60%] lg:text-center'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus illum iure doloribus. Id, aspernatur? Nulla aliquam veniam in ea cumque.</p>

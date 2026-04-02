@@ -16,7 +16,7 @@ const Featurs = () => {
     )
 
   return (
-    <div id='whyUs'className='w-full flex flex-col justify-between  gap-5  py-10  lg:py-20 px-4 lg:px-10'>
+    <div id='whyUs'className='w-full flex flex-col justify-between  gap-5  py-10  lg:py-20 px-4 lg:px-10 mb-20'>
       <div  className='flex flex-col justify-between gap-3 items-center lg:items-center lg:gap-5'>
 <h1 data-aos="zoom-in" data-aos-delay="100" className='font-semibold text-black text-3xl lg:text-5xl'> Why Should You Travel With Us</h1>
 <p  data-aos="zoom-in" data-aos-delay="200" className='lg:w-[60%] text-center lg:text-xl text-gray-500 text-md'>Dictum viverra enim quam consectetur posuere ex montes 

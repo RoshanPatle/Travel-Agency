@@ -10,17 +10,16 @@ import Footer from './sections/Footer'
 
 const App = () => {
   return (
-    <div >
-     <Header/>
-     <Hero/>
-     <About/>
-     <Services/>
-    <CtaOne/>
-<Packages/>
-<Featurs/>
-<Footer/>
-
-    </div>
+  <div >
+       <Header/>
+       <Hero/>
+       <About/>
+       <Services/>
+       <CtaOne/>
+       <Packages/>
+       <Featurs/>
+      <Footer/>
+ </div>
   )
 }
 

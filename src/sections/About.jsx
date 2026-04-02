@@ -17,7 +17,7 @@ const About = () => {
   return (
     
       
-<div className=' flex lg:flex-row flex-col  justify-between lg:p-22 items-center gap-15 py-20 px-5 '>
+<div id='about' className=' flex lg:flex-row flex-col  justify-between lg:p-22 items-center gap-15 py-20 px-5 '>
   <div className='  flex flex-col  justify-between items-start '>
     <img data-aos='zoom-in' data-aos-delay='100' src={aboutimg1} alt=""  className=' rounded-md' />
     <img data-aos='zoom-in' data-aos-delay='200'  src={aboutimg2} alt=""  className=' rounded-md border-10  w-[40%] border-white -mt-37.5 -ml-7.5 -rotate-2'/>

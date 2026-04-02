@@ -15,7 +15,7 @@ AOS.init({
 
 )
   return (
-    <div id='cta1' className='relative w-full lg:h-[500px] h-auto flex flex-col justify-center items-center bg-cover bg-center lg:p-22 p-10 gap-5'   style={{backgroundImage:`url(${cta1})`}}>
+    <div id='cta1' className='relative w-full lg:h-125 h-auto flex flex-col justify-center items-center bg-cover bg-center lg:p-22 p-10 gap-5'   style={{backgroundImage:`url(${cta1})`}}>
 {/* black overlay*/ }
 <div className='absolute inset-0 bg-black/50'></div>
 <div className='flex flex-col justify-center items-center gap-5 relative z-10 '>
